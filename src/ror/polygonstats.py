@@ -3,7 +3,7 @@
 --------------------------------------------------------------------
     This file is part of the raster object recognition project.
 
-    https://github.com/woodbri/raster-object-recognition
+    https://github.com/rowennetfinder555/Object-Recognition2
 
     MIT License. See LICENSE file for details.
 

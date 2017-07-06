@@ -65,7 +65,7 @@ chown -R $USER.$USER /u
 
 # login as regular user ($USER)
 
-git clone https://github.com/woodbri/raster-object-recognition.git
+git clone https://github.com/rowennetfinder555/Object-Recognition2.git
 cd raster-object-recognition
 src/docker/docker-build
 
